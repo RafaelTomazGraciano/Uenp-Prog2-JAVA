@@ -14,5 +14,4 @@ public class Objetos {
     public static int quantidadeObjetos(){
         return objeto;
     }
-
 }

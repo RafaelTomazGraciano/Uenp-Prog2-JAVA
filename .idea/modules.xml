@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Classes_Objetos_Contrutores_Metodos/1.Classes_Objetos_Contrutores_Metodos.iml" filepath="$PROJECT_DIR$/1.Classes_Objetos_Contrutores_Metodos/1.Classes_Objetos_Contrutores_Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.String_Array/3.String_Array.iml" filepath="$PROJECT_DIR$/3.String_Array/3.String_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Heranca/4.Heranca.iml" filepath="$PROJECT_DIR$/4.Heranca/4.Heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista 01/Lista 01.iml" filepath="$PROJECT_DIR$/Lista 01/Lista 01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lista 02/Lista 02.iml" filepath="$PROJECT_DIR$/Lista 02/Lista 02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lista 03/Lista 03.iml" filepath="$PROJECT_DIR$/Lista 03/Lista 03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uenp-Prog2-JAVA.iml" filepath="$PROJECT_DIR$/Uenp-Prog2-JAVA.iml" />
     </modules>
   </component>
