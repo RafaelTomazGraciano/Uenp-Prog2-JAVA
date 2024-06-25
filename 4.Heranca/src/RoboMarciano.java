@@ -9,4 +9,9 @@ public class RoboMarciano extends Robo{
     public String toString(){
         return "Sou um robô Marciano";
     }
+
+    public void resetar(){
+        setPontoX(0);
+        setPontoX(0);
+    }
 }

@@ -19,4 +19,8 @@ public class RoboSolar extends Robo{
         return "Sou um robô Solar";
     }
 
+    public void resetar(){
+        emitieRaios = false;
+    }
+
 }

@@ -47,4 +47,6 @@ public abstract class Robo {
         ponto.setY(y);
     }
 
+    public abstract void resetar();
+
 }
